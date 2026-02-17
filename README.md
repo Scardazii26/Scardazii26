@@ -1,27 +1,30 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=2EBD85&center=true&vCenter=true&width=500&lines=Hello,+World!+🌎;Aspiring+Data+Scientist+🚀" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=007BFF&center=true&vCenter=true&width=720&lines=Hello,+World!+🌎;AI,+Process+%26+Programming+Enthusiast+🚀" 
+    alt="Typing SVG" 
+  />
 </div>
 
 ---
 
-### <h2>👨💻 About Me:</h2>
+### <h2>👨‍💻 About Me:</h2>
 
 <p>
-  I'm a Data Science enthusiast passionate about transforming data into valuable insights. Currently:
+  I'm an AI, process, and programming enthusiast passionate about transforming ideas into efficient and intelligent solutions. Currently:
   
-  🎓 Pursuing a Technology Degree in Data Science at UNINTER (Expected graduation: July 2027)<br>
+  🎓 Pursuing a Bachelor's Degree in Information Systems at UNINTER (Expected graduation: July 2027)<br>
   🔍 Continuously exploring emerging technologies<br>
   💡 Focused on developing analytical thinking to solve complex challenges
 </p>
 
 <details>
-  <summary><h2><strong>📌 Personal Details(Click Here):</strong></h2></summary>
+  <summary><h2><strong>📌 Personal Details (Click Here):</strong></h2></summary>
 
-  - 🌍 **Location and Age:** Campinas, SP -Brazil | 24 years old
-  - 🎯 **Goal:** Build expertise across the entire data lifecycle (collection, processing, analysis, and visualization)
+  - 🌍 **Location and Age:** Campinas, SP - Brazil | 24 years old
+  - 🎯 **Goal:** Build expertise across AI, automation, data analysis, and intelligent systems
   - 📚 **Current Studies:** 
-    - Prompt Engineering with ["Artificial Intelligence and ChatGPT"](https://www.amazon.com.br/Intelig%C3%AAncia-Artificial-ChatGPT-generativa-Engenharia-ebook/dp/B0CPZB7BDR/ref=sr_1_25?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2XR3BZPEW9ZBR&dib=eyJ2IjoiMSJ9.Ryj5COneHXROj8nYtFVUMk1SUyi-JcgK1yH748ZzDZXDcke_zfCqgB0RbgHKwFuEYj3lCK15Sp1xXgVj6S36A_jhHtaqsvzK18KQA1fX1VVi7mWiOsTcwREnCtr4IjUG0QmTwU86wheXJZakRZlAtIGz0lmQzJFYvHc6t2MCMX7xdzxGQ2LAfIJUkiShAkcAe0qRfqI1t9lSRAMpiSNK753EC5S0P6_MH9ZrJV3eIB-c4hbwMpI8iSqXZ3cT6Xn0pqsJdwFpTttnNi8IEoQ5atKlDpzhTubFCIBFFQYFe8yWwtwo1yjWouZ7yrv6xTvTm3IX32ENFk8yDh7O4i91FInbMISz8y7gN37q5Qkj6MT9UNsgy8hWGYsbq5WrsOX1cW888rqyBq6TWhPlYbLgwpmBobj0R3-MVGmtLQn-eRlY9TIpVeBCXf6xIFyNRMrG.T-KnwmdizYmYY9ECJoz3686rMxHG_t9DCgXJtwy3HRc&dib_tag=se&keywords=Chat+gpt&qid=1738353891&sprefix=chat+gpt%2Caps%2C324&sr=8-25) by Fabrício Carraro
-    - Enhancing skills in Python, Power BI, and Machine Learning
+    - Prompt Engineering with "Artificial Intelligence and ChatGPT" by Fabrício Carraro
+    - Enhancing skills in Python, Power BI, automation, and Machine Learning
   - 🌱 **Hobbies:** 🏋️ Weight Training, 📚 Reading, 🚀 Tech Exploration, 🎮 Gaming
 </details>
 
@@ -50,7 +53,7 @@
 - 🤝 Business Negotiation
 - 🗣️ Business Communication
 - 👥 Team Collaboration
-- 💡Analytical curiosity
+- 💡 Analytical Curiosity
 
 ---
 
@@ -64,7 +67,7 @@
 
 ### <h2>🚀 Featured Projects:</h2>
 
-[![Travel Chatbot](https://img.shields.io/badge/🔗-Travel_Chatbot_(Python_+_AI)-2EBD85?style=for-the-plastic)](https://github.com/Gskars/Edition-One)
+[![Travel Chatbot](https://img.shields.io/badge/🔗-Travel_Chatbot_(Python_+_AI)-007BFF?style=for-the-plastic)](https://github.com/Gskars/Edition-One)
 > Tourist destination recommendation system using natural language processing
 
 *(More projects coming soon!)*
@@ -78,4 +81,5 @@
 
 ---
 
-**<h2>📌 Did You Know?</h2>** "Data is the new oil, but it's only valuable when refined!" - Clive Humby
+**<h2>📌 Did You Know?</h2>**  
+"Data is the new oil, but it's only valuable when refined!" — Clive Humby
