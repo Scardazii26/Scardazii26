@@ -23,7 +23,7 @@
   - 🌍 **Location and Age:** Campinas, SP - Brazil | 26 years old
   - 🎯 **Goal:** Build expertise across AI, automation, process optimization, and intelligent systems
   - 📚 **Current Studies:**
-    - **Inteligência Artificial**: Engenharia de propmt e mapeamento de prompt.
+    - **Inteligência Artificial**: Engenharia de prompt e mapeamento de prompt.
     - **Mapeamento de Processos de Negócios:** Simplificação e automação de workflows e desenvolvimento de agentes de IA.
     - **Gestão de Projetos:** Estruturação e gerenciamento de soluções tecnológicas.
     - **Programming & Data:** Especialização em **Python**, **Excel** e **SQL** aplicados a soluções reais.
