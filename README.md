@@ -22,10 +22,12 @@
 
   - 🌍 **Location and Age:** Campinas, SP - Brazil | 26 years old
   - 🎯 **Goal:** Build expertise across AI, automation, process optimization, and intelligent systems
-  - 📚 **Current Studies:** 
-    - Prompt Engineering with "Artificial Intelligence and ChatGPT" by Fabrício Carraro
-    - Process simplification and automation using AI, including intelligent workflow design and AI agent development
-    - Programming and interface foundations applied to real-world solutions: HTML, CSS, JavaScript, Figma, Framer, Python, Excel and Java
+  - 📚 **Current Studies:**
+    - **Inteligência Artificial**: Engenharia de propmt e mapeamento de prompt.
+    - **Mapeamento de Processos de Negócios:** Simplificação e automação de workflows e desenvolvimento de agentes de IA.
+    - **Gestão de Projetos:** Estruturação e gerenciamento de soluções tecnológicas.
+    - **Programming & Data:** Especialização em **Python**, **Excel** e **SQL** aplicados a soluções reais.
+    - **Vibe Coding:** HTML, CSS, JavaScript, Figma.
   - 🌱 **Hobbies:** 🏋️ Weight Training, 📚 Reading, 🚀 Tech Exploration, 🎮 Gaming
 </details>
 
@@ -33,15 +35,19 @@
 
 ### <h2>🛠 Tech Stack:</h2>
 
-**Languages & Tools:**  
+**Languages & Tools:** 
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-**Development Tools:**  
+**Development Tools:** 
+
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 
-**Libraries:**  
+**Libraries:** 
+
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
