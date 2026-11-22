@@ -1,75 +1,102 @@
-<div align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=007BFF&center=true&vCenter=true&width=720&lines=Hello,+World!+🌎;AI,+Process+%26+Programming+Enthusiast+🚀" 
-    alt="Typing SVG" 
-  />
-</div>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 180" width="1000" height="180" role="img" aria-label="Logistics and operations animation">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0A1AFF"/>
+      <stop offset="1" stop-color="#00E5FF"/>
+    </linearGradient>
+  </defs>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A1AFF,100:00E5FF&height=2"/>
+  <!-- Fundo -->
+  <rect width="1000" height="180" fill="url(#bg)"/>
 
-### <h2>👨‍💻 About Me:</h2>
+  <!-- Rota tracejada animada -->
+  <path d="M60 85 C 200 40, 350 110, 500 70 S 800 40, 940 80"
+        fill="none" stroke="#fff" stroke-opacity="0.55" stroke-width="2.5" stroke-dasharray="6 8">
+    <animate attributeName="stroke-dashoffset" from="0" to="-56" dur="2s" repeatCount="indefinite"/>
+  </path>
 
-<p>
-  I'm an AI, process, and programming enthusiast passionate about transforming ideas into efficient and intelligent solutions.
-  
-  🎓 Associate Degree in <strong>International Trade</strong> – UNIP Campinas<br>
-  🔍 Continuously exploring emerging technologies<br>
-  💡 Focused on applying AI and automation to optimize processes and improve business performance
-</p>
+  <!-- Pontos de rastreio pulsando -->
+  <g fill="#fff">
+    <circle cx="60" cy="85" r="4"/>
+    <circle cx="500" cy="70" r="4"/>
+    <circle cx="940" cy="80" r="4"/>
+  </g>
+  <g fill="none" stroke="#fff" stroke-width="2">
+    <circle cx="60" cy="85" r="5">
+      <animate attributeName="r" from="5" to="16" dur="2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" from="0.8" to="0" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="500" cy="70" r="5">
+      <animate attributeName="r" from="5" to="16" dur="2s" begin="0.6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" from="0.8" to="0" dur="2s" begin="0.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="940" cy="80" r="5">
+      <animate attributeName="r" from="5" to="16" dur="2s" begin="1.2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" from="0.8" to="0" dur="2s" begin="1.2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
 
-<details>
-  <summary><h2><strong>📌 Personal Details (Click Here):</strong></h2></summary>
+  <!-- Avião cargueiro -->
+  <g transform="translate(0,28)">
+    <g>
+      <animateTransform attributeName="transform" type="translate" from="-80 0" to="1080 0" dur="18s" repeatCount="indefinite"/>
+      <polygon points="-24,-2 -32,-14 -26,-14 -14,-2" fill="#fff"/>
+      <ellipse cx="0" cy="0" rx="28" ry="5" fill="#fff"/>
+      <polygon points="-4,0 -14,14 -6,14 8,0" fill="#fff" fill-opacity="0.85"/>
+    </g>
+  </g>
 
-  - 🌍 **Location and Age:** Campinas, SP - Brazil | 26 years old
-  - 🎯 **Goal:** Build expertise across AI, automation, process optimization, and intelligent systems
-  - 📚 **Current Studies:**
-    - **Inteligência Artificial**: Engenharia de prompt e mapeamento de prompt.
-    - **Mapeamento de Processos de Negócios:** Simplificação e automação de workflows e desenvolvimento de agentes de IA.
-    - **Gestão de Projetos:** Estruturação e gerenciamento de soluções tecnológicas.
-    - **Programming & Data:** Especialização em **Python**, **Excel** e **SQL** aplicados a soluções reais.
-    - **Vibe Coding:** HTML, CSS, JavaScript, Figma.
-  - 🌱 **Hobbies:** 🏋️ Weight Training, 📚 Reading, 🚀 Tech Exploration, 🎮 Gaming
-</details>
+  <!-- Galpão (esquerda) -->
+  <g fill="#0b1030" fill-opacity="0.55">
+    <rect x="40" y="108" width="130" height="32"/>
+    <polygon points="34,108 105,92 176,108"/>
+  </g>
+  <g fill="#fff" fill-opacity="0.35">
+    <rect x="52" y="120" width="26" height="20"/>
+    <rect x="92" y="120" width="26" height="20"/>
+    <rect x="132" y="120" width="26" height="20"/>
+  </g>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A1AFF,100:00E5FF&height=2"/>
+  <!-- Contêineres (direita) -->
+  <g fill-opacity="0.55">
+    <rect x="850" y="124" width="46" height="16" fill="#0b1030"/>
+    <rect x="900" y="124" width="46" height="16" fill="#fff"/>
+    <rect x="875" y="107" width="46" height="16" fill="#fff"/>
+    <rect x="925" y="107" width="46" height="16" fill="#0b1030"/>
+  </g>
 
-### <h2>🛠 Tech Stack:</h2>
+  <!-- Estrada -->
+  <rect y="140" width="1000" height="40" fill="#0b1030" fill-opacity="0.85"/>
+  <line x1="0" y1="162" x2="1000" y2="162" stroke="#fff" stroke-width="3" stroke-dasharray="30 24">
+    <animate attributeName="stroke-dashoffset" from="0" to="-54" dur="0.8s" repeatCount="indefinite"/>
+  </line>
 
-**Languages & Tools:** 
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-**Development Tools:**
-
-![Antigravity](https://img.shields.io/badge/Antigravity-IDE%20%2F%20Agent-blue?style=for-the-badge&logo=google&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
-
-**Libraries:** 
-
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
-![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A1AFF,100:00E5FF&height=2"/>
-
-### <h2>🌟 Soft Skills:</h2>
-
-- 🤝 Business Negotiation
-- 🗣️ Business Communication
-- 👥 Team Collaboration
-- 🧠 Emotional Intelligence
-- 🚀 Proactivity
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A1AFF,100:00E5FF&height=2"/>
-
-### <h2>🌐 Connect with Me:</h2>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermescardazi/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermescardazi.dados@gmail.com)
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1AFF,100:00E5FF&height=120&section=footer"/>
+  <!-- Caminhão -->
+  <g transform="translate(0,148)">
+    <g>
+      <animateTransform attributeName="transform" type="translate" from="-170 0" to="1050 0" dur="14s" repeatCount="indefinite"/>
+      <!-- Baú -->
+      <rect x="0" y="-34" width="84" height="34" rx="3" fill="#fff"/>
+      <rect x="0" y="-18" width="84" height="5" fill="#00E5FF"/>
+      <!-- Cabine -->
+      <path d="M86 -26 h20 l12 12 v14 h-32 z" fill="#00E5FF"/>
+      <path d="M92 -21 h12 l8 8 h-20 z" fill="#0b1030" fill-opacity="0.7"/>
+      <!-- Rodas -->
+      <g transform="translate(20,2)">
+        <circle r="8" fill="#0b1030" stroke="#fff" stroke-width="2"/>
+        <g><line x1="-5" x2="5" stroke="#fff" stroke-width="2"/>
+          <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="0.6s" repeatCount="indefinite"/></g>
+      </g>
+      <g transform="translate(58,2)">
+        <circle r="8" fill="#0b1030" stroke="#fff" stroke-width="2"/>
+        <g><line x1="-5" x2="5" stroke="#fff" stroke-width="2"/>
+          <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="0.6s" repeatCount="indefinite"/></g>
+      </g>
+      <g transform="translate(104,2)">
+        <circle r="8" fill="#0b1030" stroke="#fff" stroke-width="2"/>
+        <g><line x1="-5" x2="5" stroke="#fff" stroke-width="2"/>
+          <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="0.6s" repeatCount="indefinite"/></g>
+      </g>
+    </g>
+  </g>
+</svg>
