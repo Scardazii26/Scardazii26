@@ -35,21 +35,20 @@
 
 ## 🛠 Tech Stack:
 
-**Languages & Tools:** 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-**Development Tools:**
+## Development Tools:
 
 ![Antigravity](https://img.shields.io/badge/Antigravity-IDE%20%2F%20Agent-blue?style=for-the-badge&logo=google&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 ![Google AI Studio](https://img.shields.io/badge/Google%20AI%20Studio-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
-**Python Libraries:** 
+## Python Libraries:
 
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -73,5 +72,4 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermescardazi/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermescardazi.dados@gmail.com)
-
-<img width="100%" src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/main/assets/logistics-footer.svg" alt="Logistics animation"/>
+<img width="100%" src="Assets/logistics-footer.svg" alt="Logistics animation"/>
