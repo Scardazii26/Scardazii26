@@ -12,7 +12,7 @@
 <p>
   I'm an AI, process, and programming enthusiast passionate about transforming ideas into efficient and intelligent solutions.
   
-  🎓 Bachelor's Degree in <strong>International Trade</strong> – UNIP Campinas<br>
+  🎓 Associate Degree in <strong>International Trade</strong> – UNIP Campinas<br>
   🔍 Continuously exploring emerging technologies<br>
   💡 Focused on applying AI and automation to optimize processes and improve business performance
 </p>
@@ -41,8 +41,9 @@
 ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-**Development Tools:** 
+**Development Tools:**
 
+![Antigravity](https://img.shields.io/badge/Antigravity-IDE%20%2F%20Agent-blue?style=for-the-badge&logo=google&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 
@@ -50,6 +51,9 @@
 
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A1AFF,100:00E5FF&height=2"/>
 
