@@ -1,6 +1,6 @@
 <div align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=007BFF&center=true&vCenter=true&width=720&lines=Hello,+World!+🌎;AI,+Process+%26+Programming+Enthusiast+🚀" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=007BFF&center=true&vCenter=true&width=720&lines=Hello,+World!+🌎;Industry+4.0,+AI+%26+Operations+🚀" 
     alt="Typing SVG" 
   />
 </div>
@@ -10,22 +10,23 @@
 ## 👨‍💻 About Me:
 
 <p>
-  I'm an AI, process, and programming enthusiast passionate about transforming ideas into efficient and intelligent solutions.<br><br>
+  I'm an operations and logistics professional passionate about bridging the gap between <strong>Industry 4.0</strong>, industrial automation, and data-driven solutions.<br><br>
   🎓 Associate Degree in <strong>International Trade</strong> – UNIP Campinas<br>
-  🔍 Continuously exploring emerging technologies<br>
-  💡 Focused on applying AI and automation to optimize processes and improve business performance
+  🔍 Continuously exploring smart manufacturing, process optimization, and emerging technologies<br>
+  💡 Focused on applying AI, data analytics, and automation to streamline operations and boost efficiency on the shop floor
 </p>
 
 <details>
   <summary><h2><strong>📌 Personal Details (Click Here):</strong></h2></summary>
 
 - 🌍 **Location and Age:** Campinas, SP - Brazil | 26 years old
-- 🎯 **Goal:** Build expertise across AI, automation, process optimization, and intelligent systems
+- 🎯 **Goal:** Build expertise across Industrial Automation, AI, operations intelligence, and data-driven process optimization
 - 📚 **Current Studies:**
-  - **Inteligência Artificial:** Engenharia de prompt e mapeamento de prompt.
-  - **Mapeamento de Processos de Negócios:** Simplificação e automação de workflows e desenvolvimento de agentes de IA.
+  - **Indústria 4.0 & Automação:** Digitalização de processos industriais, manutenção preditiva e eficiência operacional.
+  - **Inteligência Artificial:** Engenharia de prompt, mapeamento de prompt e desenvolvimento de agentes de IA para triagem e suporte técnico.
+  - **Mapeamento de Processos de Negócios:** Simplificação e automação de workflows logísticos e operacionais.
   - **Gestão de Projetos:** Estruturação e gerenciamento de soluções tecnológicas.
-  - **Programming & Data:** Especialização em **Python**, **Excel**, **Power BI** e **SQL** aplicados a soluções reais.
+  - **Programming & Data:** Especialização em **Python**, **Excel**, **Power BI** e **SQL** aplicados a dados de produção e manutenção.
   - **Vibe Coding:** HTML, CSS, JavaScript, Figma.
 - 🌱 **Hobbies:** 🏋️ Weight Training, 📚 Reading, 🚀 Tech Exploration, 🎮 Gaming
 
@@ -34,7 +35,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A1AFF,100:00E5FF&height=2"/>
 
 ## 🛠 Tech Stack:
-
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -58,6 +58,15 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A1AFF,100:00E5FF&height=2"/>
 
+## 🗣️ Languages:
+
+![Portuguese](https://img.shields.io/badge/Portuguese-Native-228B22?style=for-the-badge&logo=brazil&logoColor=white)
+![English](https://img.shields.io/badge/English-B2%20(Intermediate)-007ACC?style=for-the-badge&logo=england&logoColor=white)
+![Spanish](https://img.shields.io/badge/Spanish-A2%20(Basic)--Intermediate-FF8C00?style=for-the-badge&logo=spain&logoColor=white)
+![Italian](https://img.shields.io/badge/Italian-A2%20(Basic)--Intermediate-008080?style=for-the-badge&logo=italy&logoColor=white)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0A1AFF,100:00E5FF&height=2"/>
+
 ## 🌟 Soft Skills:
 
 - 🤝 Business Negotiation
@@ -72,4 +81,5 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermescardazi/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilhermescardazi.dados@gmail.com)
+
 <img width="100%" src="Assets/logistics-footer.svg" alt="Process engineering animation"/>
